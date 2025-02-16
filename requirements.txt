@@ -1,3 +1,4 @@
 flask
 gunicorn
 requests
+langchain_google_genai
