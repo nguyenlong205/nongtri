@@ -40,10 +40,12 @@ Outputs data in a structured JSON format.
 
 ## Output Example
 
+``` json
 {
     "Commodity": "Durian RI6",
     "Price": 48500
 }
+```
 
 ## Notes
 
