@@ -18,7 +18,9 @@ Clone this repository or copy the script.
 
 Install the required dependencies using pip:
 
+```
 pip install selenium webdriver-manager
+```
 
 Ensure Google Chrome is installed on your system.
 
@@ -26,7 +28,9 @@ Ensure Google Chrome is installed on your system.
 
 Run the script to fetch commodity prices:
 
-python script.py
+```
+python bot.py
+```
 
 ## Features
 
